@@ -1,2 +1,2 @@
 # Plotly_Challenge
-The dashboard can be accessed from the link: http://localhost:8000/
+The dashboard can be accessed from the link: https://lilyhu61.github.io/Plotly_Challenge/
